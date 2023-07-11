@@ -1,0 +1,14 @@
+Generacion de codigo QR -> Requerimientos 
+
+-Se generara los codigos QR con una base de datos proporcionada por el equipo(Pendiente los datos que se van a enviar)
+Tentativo de data asistentes presenciales(CI,nombre,telefono,correo)
+-Tener la opcion de crear nuevos codigos QR llenando un formulario(Los campos seran los mismos que se envien en la data
+se añadira cada ingreso a la data que se envie inicialmente).
+-La app solo formara los codigos QR con el nombre y el ID.
+
+-Otra ruta permitira capturar la informacion del codigo QR y tomar la Identificacion (Cedula o pasaporte) y registrar en
+la base de asistencia se tomara el ID, Nombre y el tiempo en le que se leyo el codigo QR.
+-Tener 3 tablas para cada dia del evento.
+-Cada asistente debe tener una solo asistencia por dia (validacion y notificacion)
+-Comprobar el funcionamiento de la app al ser usada en dispositivo movil(por comprobar).
+-Subir al servidor(solicitar accesos despues de las pruebas locales)

@@ -59,6 +59,7 @@ class AssistantsController extends Controller
     public function show(Assistants $assistants)
     {
         //
+        
     }
 
     /**
